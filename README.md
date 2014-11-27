@@ -5,4 +5,4 @@ If your website or mobile app has data that needs to be updated in the user’s 
 
 ### The Realtime Messaging examples can be found at:
 
-**[https://github.com/RTWWorld/pubsub-examples](https://github.com/RTWWorld/pubsub-examples)**
+**[https://github.com/realtime-framework/Messaging](https://github.com/realtime-framework/Messaging)**
